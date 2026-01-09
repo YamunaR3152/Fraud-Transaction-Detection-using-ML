@@ -1,3 +1,5 @@
+NOTE: LINK FOR DATASET: https://docs.google.com/spreadsheets/d/1zWQPYAWBBPryaDCCr8DFPwuScFeY2wHr/edit?usp=sharing&ouid=116495431011048068937&rtpof=true&sd=true 
+
 # Fraud-Transaction-Detection-Using-Machine-Learning
 
 Built a machine learning model to detect fraudulent financial transactions and generate actionable business insights to help prevent fraud. The project focuses on handling large-scale, highly imbalanced data and optimizing model performance for real-world deployment.
